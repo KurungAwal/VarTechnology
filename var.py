@@ -1,1 +1,1 @@
-print("halo cckanzul")
+print("halo")
